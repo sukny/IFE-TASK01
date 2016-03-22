@@ -1,0 +1,58 @@
+
+*{
+	font-family: "Microsoft YaHei";
+}
+
+
+.wrap{
+	padding: 20px;
+	background-color: #eee;
+	border:1px solid #999;
+	min-width: 800px;
+	overflow: hidden;
+}
+
+
+.left{
+	width: 160px;
+	background-color: #fff;
+	border:1px solid #999;
+	font-size: 12px;
+    float: left;
+    padding: 20px;
+	}
+
+.left .teamname{
+	display: block;
+    float: right;
+}
+
+
+.right{
+	width:80px;
+	background-color: #fff;
+	border:1px solid #999;
+	padding: 20px;
+	float: right;
+}
+
+.right >img{
+	margin-bottom: 20px;
+	border: 1px solid #999;
+}
+
+
+
+.mainbody{
+	margin-left: 220px;
+	margin-right: 140px;
+	border:1px solid #999;
+	font-size: 11px;
+	background: #FFF;
+    text-indent: 1px;
+}
+
+.mainbody p{
+	padding:0 20px;
+
+}
